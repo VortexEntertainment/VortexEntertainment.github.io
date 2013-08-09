@@ -4,7 +4,6 @@ margin: 0;
 }
 #navigation {
 position: fixed;
-clear: both;
 top: 0;
 width: 100%;
 color: #ffffff;
