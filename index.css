@@ -29,3 +29,7 @@ text-decoration: none;
 #navigation a:hover {
 color: grey;
 } 
+
+p {color:blue; font-size:16px; font-family:cursive;}
+
+changecolor {color:red; font-weight:bold; font-family:arial;}
