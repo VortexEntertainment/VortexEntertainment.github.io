@@ -1,3 +1,14 @@
+/*This is our custom background image*/
+body {
+background: url(http://cinemuck.com/wp-content/uploads/2013/04/cool-wallpaper.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+/*This is for the Nav Bar (To be fixed)*/
 #nav {
   width: 100%;
 	float: left;
@@ -21,6 +32,11 @@
 	background-color: #fff; }
 
 
+
+/*For font*/
 p {color:blue; font-size:16px; font-family:cursive;}
 
+
+
+/*For special button color change effect*/
 .changecolor {color:red; font-weight:bold; font-family:arial;}
