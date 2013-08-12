@@ -41,9 +41,9 @@ text-decoration: none;
 color: grey;
 } 
 /*For font*/
-p {color:blue; font-size:16px; font-family:cursive;}
+p {color:c0c0c0; font-size:16px; font-family:Arial, Helvetica, sans-serif;}
 
 
 
 /*For special button color change effect*/
-.changecolor {color:red; font-weight:bold; font-family:arial;}
+.changecolor {color:red; font-weight:bold; font-family:Lucida;}
